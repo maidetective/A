@@ -14,7 +14,7 @@ def file_op():
 
 
 def file_ch():
-    print(os.getcwd())
+    print(os.getcwd())qweqweqwe
     cd = "F:\\learn\\python\\day7begin\\批量操作"
     if os.getcwd() != cd:
         os.chmod(cd)
